@@ -1,0 +1,8 @@
+.btn {
+   background-color: var(--secondary);
+   box-shadow: var(--box-shadow);
+}
+
+.btn::before {
+   content: '';
+}
